@@ -1,6 +1,6 @@
 ---
 theme: seriph
-title: Python Basics - Chapter 2
+title: Python Basics - Chapter 0
 layout: cover
 class: text-center
 drawings:
