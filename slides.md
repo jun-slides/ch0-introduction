@@ -21,10 +21,10 @@ layout: quote
 
 <v-clicks>
 
-# 🌱 Section 1: Foundations
-# 🔁 Section 2: Collections and Loops
-# 🧰 Section 3: Functions and Data
-# 🚀 Section 4: Real-World Skills
+# <span class="emoji">🌱</span> Section 1: Foundations
+# <span class="emoji">🔁</span> Section 2: Collections and Loops
+# <span class="emoji">🧰</span> Section 3: Functions and Data
+# <span class="emoji">🚀</span> Section 4: Real-World Skills
 
 </v-clicks>
 
@@ -35,7 +35,7 @@ layout: quote
 
 
 
-# 🌱 Section 1: Foundations
+# <span class="emoji">🌱</span> Section 1: Foundations
 
 <v-clicks>
 
@@ -51,7 +51,7 @@ layout: quote
 layout: quote
 ---
 
-# 🔁 Section 2: Collections and Loops
+# <span class="emoji">🔁</span> Section 2: Collections and Loops
 
 <v-clicks>
 
@@ -67,7 +67,7 @@ layout: quote
 layout: quote
 ---
 
-# 🧰 Section 3: Functions and Data
+# <span class="emoji">🧰</span> Section 3: Functions and Data
 
 <v-clicks>
 
@@ -83,16 +83,16 @@ layout: quote
 ---
 
 
-# Projects
+# Projects <span class="emoji">🎮</span>
 Some of the projects we will be making.
 
 <v-clicks>
 
-# Rock paper Scissors
-# Random Password Generator
-# Math Quiz Game
-# Tic Tac Toe
-# Hangman
+# <span class="emoji">✊✋✌️</span> Rock paper Scissors
+# <span class="emoji">🔐</span> Random Password Generator
+# <span class="emoji">🧮</span> Math Quiz Game
+# <span class="emoji">❌⭕</span> Tic Tac Toe
+# <span class="emoji">🔠</span> Hangman
 
 </v-clicks>
 
@@ -101,7 +101,7 @@ Some of the projects we will be making.
 layout: quote
 ---
 
-# Rock Paper Scissors
+# <span class="emoji">✊✋✌️</span> Rock Paper Scissors
 Fair version
 
 <div v-click>
@@ -117,7 +117,7 @@ Fair version
 layout: quote
 ---
 
-# Rock Paper Scissors
+# <span class="emoji">✊✋✌️</span> Rock Paper Scissors
 Unfair version (the computer always wins)
 
 <div v-click>
@@ -132,7 +132,7 @@ Unfair version (the computer always wins)
 layout: quote
 ---
 
-# Random Password Generator
+# <span class="emoji">🔐</span> Random Password Generator
 
 <div v-click>
   <iframe
@@ -146,7 +146,7 @@ layout: quote
 layout: quote
 ---
 
-# Math Quiz Game
+# <span class="emoji">🧮</span> Math Quiz Game
 <div v-click>
   <iframe
     v-if="$clicks >= 1"
@@ -160,7 +160,7 @@ layout: quote
 layout: quote
 ---
 
-# Tic Tac Toe
+# <span class="emoji">❌⭕</span> Tic Tac Toe
 <div v-click>
   <iframe
     v-if="$clicks >= 1"
@@ -175,7 +175,7 @@ layout: quote
 layout: quote
 ---
 
-# Hangman
+# <span class="emoji">🔠</span> Hangman
 <div v-click>
   <iframe
     v-if="$clicks >= 1"
@@ -191,7 +191,7 @@ layout: quote
 layout: quote
 ---
 
-# 🚀 Section 4: Real-World Skills
+# <span class="emoji">🚀</span> Section 4: Real-World Skills
 
 <v-clicks>
 
@@ -218,7 +218,7 @@ layout: quote
 
 <br> 
 
-# Chapter 1: Strings and Variables 🔤
+# Chapter 1: Strings and Variables <span class="emoji">🔤</span>
 
 <v-clicks>
 
@@ -241,7 +241,7 @@ layout: quote
 <br> 
 
 
-# Chapter 2: Types, Numbers and Calculations 🔢
+# Chapter 2: Types, Numbers and Calculations <span class="emoji">🔢</span>
 
 <v-clicks>
 
@@ -263,7 +263,7 @@ layout: quote
 
 <br> 
 
-# Chapter 3: Making Decisions 🔀
+# Chapter 3: Making Decisions <span class="emoji">🔀</span>
 
 <v-clicks>
 
@@ -281,7 +281,7 @@ layout: quote
 
 <br> 
 
-# Chapter 4: Logic and Nesting 🧠
+# Chapter 4: Logic and Nesting <span class="emoji">🧠</span>
 
 <v-clicks>
 
@@ -303,7 +303,7 @@ layout: quote
 
 <br> 
 
-# Chapter 5: Lists 📋
+# Chapter 5: Lists <span class="emoji">📋</span>
 
 <v-clicks>
 
@@ -323,7 +323,7 @@ layout: quote
 
 <br> 
 
-# Chapter 6: For Loops 🔄
+# Chapter 6: For Loops <span class="emoji">🔄</span>
 
 <v-clicks>
 
@@ -343,7 +343,7 @@ layout: quote
 
 <br> 
 
-# Chapter 7: While Loops ⏳
+# Chapter 7: While Loops <span class="emoji">⏳</span>
 
 <v-clicks>
 
@@ -362,7 +362,7 @@ layout: quote
 
 <br> 
 
-# Chapter 8: Functions ⚙️
+# Chapter 8: Functions <span class="emoji">⚙️</span>
 
 <v-clicks>
 
@@ -383,7 +383,7 @@ layout: quote
 
 <br> 
 
-# Chapter 9: Dictionaries 📖
+# Chapter 9: Dictionaries <span class="emoji">📖</span>
 
 <v-clicks>
 
@@ -403,7 +403,7 @@ layout: quote
 
 <br> 
 
-# Projects 🎮
+# Projects <span class="emoji">🎮</span>
 - Build full programs: Fruit Machine, Hangman, Cho-Han, Bagels, Tic-Tac-Toe, Coffee Machine, Blackjack
 
 ---
@@ -414,7 +414,7 @@ layout: quote
 
 <br> 
 
-# Chapter 10: Working with Files 📁
+# Chapter 10: Working with Files <span class="emoji">📁</span>
 
 <v-clicks>
 
@@ -433,7 +433,7 @@ layout: quote
 
 <br> 
 
-# Chapter 11: Exception Handling 🛡️
+# Chapter 11: Exception Handling <span class="emoji">🛡️</span>
 
 <v-clicks>
 
@@ -452,7 +452,7 @@ layout: quote
 
 <br> 
 
-# Chapter 12: Object-Oriented Programming 🏗️
+# Chapter 12: Object-Oriented Programming <span class="emoji">🏗️</span>
 
 <v-clicks>
 
@@ -462,3 +462,68 @@ layout: quote
 - Build programs with multiple objects
 
 </v-clicks>
+
+
+
+---
+layout: quote
+---
+
+# Workspace setup
+
+
+---
+layout: center
+---
+
+# Step 1
+
+<img src="./1.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Step 2
+
+<img src="./2.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Step 3
+
+<img src="./3.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Step 4
+
+<img src="./4.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Step 5
+
+<img src="./5.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Step 6
+
+<img src="./6.jpg" class="h-120 rounded shadow" />
+
+---
+layout: center
+---
+
+# Done
+
+<img src="./7.jpg" class="h-120 rounded shadow" />
